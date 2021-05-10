@@ -1,0 +1,48 @@
+body{
+    background:red;
+}
+.one{
+   background-color: white;
+   width: 600px;
+   height: 600px;
+ margin-top: 100px;
+ margin-left: 400px;
+   padding:20px;
+  position: absolute;
+}
+.form-group{
+
+padding: 50px;
+   margin-right: 200px;
+    margin-left: -20px;
+    width: 600px;
+    height: 90px;
+    padding-top: 10px;
+
+}
+
+
+.signup-btn{
+	margin-top:20px;
+	margin-bottom: 20px;
+	background:#043c79;
+    color: white;
+	font-family:"montserrat",sans-serif;
+padding-left: 250px;
+padding-right: 220px;
+text-align: center;
+height: 35px;
+	
+	
+}
+.form-group input{
+margin: 5px;
+	box-sizing: border-box;
+
+	font-family:"montserrat",sans-serif;
+}
+input
+{
+    width: 500px;
+    height: 30px;
+}
